@@ -6,7 +6,7 @@ Fast Rust tooling to follow Ethereum transactions from the mempool to the block:
 
 It is built for the study of temporal liquidity: how the value of being included, and of being included early, changes with time and with market conditions. Every measure is kept with its time, so results can be read by position in the block, by time within the slot, by waiting time and by volatility regime.
 
-Status: early development. Items marked *(planned)* are not yet implemented.
+Status: early development. 
 
 ## What it covers
 
